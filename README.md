@@ -1,4 +1,4 @@
-# Black Hole Number
+# Four Pattern
 
 ## Rules
 
